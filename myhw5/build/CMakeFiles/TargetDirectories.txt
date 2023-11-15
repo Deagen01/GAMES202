@@ -1,0 +1,3 @@
+/mnt/d/code/Games202/myhw5/build/CMakeFiles/Denoise.dir
+/mnt/d/code/Games202/myhw5/build/CMakeFiles/edit_cache.dir
+/mnt/d/code/Games202/myhw5/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+/mnt/d/code/Games202/myhw4/lut-gen/build/CMakeFiles/lut-Emu-MC.dir
+/mnt/d/code/Games202/myhw4/lut-gen/build/CMakeFiles/lut-Eavg-MC.dir
+/mnt/d/code/Games202/myhw4/lut-gen/build/CMakeFiles/lut-Emu-IS.dir
+/mnt/d/code/Games202/myhw4/lut-gen/build/CMakeFiles/lut-Eavg-IS.dir
+/mnt/d/code/Games202/myhw4/lut-gen/build/CMakeFiles/edit_cache.dir
+/mnt/d/code/Games202/myhw4/lut-gen/build/CMakeFiles/rebuild_cache.dir
